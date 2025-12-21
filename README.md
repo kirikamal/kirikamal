@@ -37,42 +37,48 @@ media storage and built a responsive, user-friendly UI with Bootstrap.
 
 ### Backend Development
 
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>&nbsp;Python&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby_on_rails.png" alt="Ruby on Rails" title="Ruby on Rails"/></code>&nbsp;Ruby on Rails&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>&nbsp;node.js&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code>&nbsp;FastAPI
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+
 
 ### Frontend Development
 
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>&nbsp;TypeScript&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></code>&nbsp;Vue.js&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nuxt_js.png" alt="Nuxt.js" title="Nuxt.js"/></code>&nbsp;Nuxt.js&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>&nbsp;JavaScript&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>&nbsp;Tailwind&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>&nbsp;Bootstrap&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+
 
 ### Databases
 
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>&nbsp;PostgreSQL&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>&nbsp;MySQL&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>&nbsp;MSSQL
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/></code>&nbsp;Elasticsearch&nbsp;&nbsp;          
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" />
+         
 
 ### Cloud & DevOps
 
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>&nbsp;AWS&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>&nbsp;Docker&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>&nbsp;Kubernetes
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>&nbsp;GitHub
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+
 
 ### CI/CD
 
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins"/></code>&nbsp;Jenkins
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" />
+
 
 ### AI/ML
 
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>&nbsp;NumPy&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>&nbsp;Pandas&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
@@ -82,16 +88,17 @@ media storage and built a responsive, user-friendly UI with Bootstrap.
 
 ### Other Tools
 
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code>&nbsp;Arch Linux&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>&nbsp;Git&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>&nbsp;GitHub&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" title="GitLab"/></code>&nbsp;GitLab&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png" alt="Bitbucket" title="Bitbucket"/></code>&nbsp;Bitbucket&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>&nbsp;bash&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/></code>&nbsp;Flutter&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" alt="pytest" title="pytest"/></code>&nbsp;pytest&nbsp;&nbsp;
-RSpec&nbsp;&nbsp;
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>&nbsp;Jira
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=black" />
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/RSpec-CC0000?logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white" />
+
 
 
 ## 🤝 Let’s Connect
