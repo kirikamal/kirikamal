@@ -96,6 +96,15 @@ RSpec&nbsp;&nbsp;
 
 ## 🤝 Let’s Connect
 
+<p>
+  <a href="mailto:kiri.kamalanathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kirikamal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 📧 Email: [kiri.kamalanathan@gmail.com](mailto:kiri.kamalanathan@gmail.com)
 💼 LinkedIn: [linkedin.com/in/kirikamal](https://www.linkedin.com/in/kirikamal/)
 
