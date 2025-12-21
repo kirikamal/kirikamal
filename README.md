@@ -35,12 +35,12 @@ media storage and built a responsive, user-friendly UI with Bootstrap.
 
 ## 🧰 Skills
 
-### Backend Development
+#### Backend Development
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
 
 
-### Frontend Development
+#### Frontend Development
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
 
