@@ -105,8 +105,6 @@ RSpec&nbsp;&nbsp;
   </a>
 </p>
 
-📧 Email: [kiri.kamalanathan@gmail.com](mailto:kiri.kamalanathan@gmail.com)
-💼 LinkedIn: [linkedin.com/in/kirikamal](https://www.linkedin.com/in/kirikamal/)
 
 <!--
 **kirikamal/kirikamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
