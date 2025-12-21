@@ -47,49 +47,26 @@ media storage and built a responsive, user-friendly UI with Bootstrap.
 
 ### Databases
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" />
          
 
 ### Cloud & DevOps
 
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 
 
 ### CI/CD
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" />
 
 
 ### AI/ML
 
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTesseract-4285F4?logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/PyTesseract-4285F4?logo=google&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=github&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white" />
 
 ### Other Tools
 
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=black" />
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/RSpec-CC0000?logo=ruby&logoColor=white" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=black" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/RSpec-CC0000?logo=ruby&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=python&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white" />
 
 
 
