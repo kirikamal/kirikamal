@@ -15,7 +15,7 @@ Building reliable, scalable web apps and intelligent systems from prototype to p
 ## Background
 
 - 🎓 Bachelor of Science (Hons) in Information Systems, Manchester Metropolitan University, UK
-- 📄 Open to Roles in ***AI/ML***, ***Full-stack Softwae Engineer*** or ***Backend Developer***
+- 📄 Open to Roles in **AI/ML**, **Full-stack Softwae Engineer** or **Backend Developer**
 - 🌐 Portfolio - 
 
 
