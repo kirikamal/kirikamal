@@ -1,8 +1,12 @@
-# <h1 style="text-align:center">Hi, I'm Kiri Kamalanathan 👋</h1>
+# <h1 align="center">Hi, I'm Kiri Kamalanathan 👋</h1>
 
-### <p style="text-align:center">Full‑Stack Software Engineer - Cloud - AI</p>
+### <p align="center">Full‑Stack Software Engineer - Cloud - AI</p>
 
 Building reliable, scalable web apps and intelligent systems from prototype to production.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Python+%7C+FastAPI+%7C+Rails;Building+clean+scalable+systems&center=true&width=500" />
+</p>
 
 ## Summary
 
