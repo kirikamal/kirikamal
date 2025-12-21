@@ -97,21 +97,12 @@ RSpec&nbsp;&nbsp;
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/kirikamal/" rel="nofollow">
-  <img width="25px" src="https://camo.githubusercontent.com/add9143ed4f594d9ffdd661716c958ec275a6638468e5a8314df2d4bfbf8e0c0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" data-  canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width: 100%;">
-  </a> 
   <a href="mailto:kiri.kamalanathan@gmail.com">
   <img width="25px" src="https://camo.githubusercontent.com/b2c4c1142abad114b87425be69aa71bbbd7ca6424612080fe0d78b2167357e0d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width: 100%;">
   </a> 
-</p>
-
-<p>
-  <a href="mailto:kiri.kamalanathan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kirikamal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/kirikamal/" rel="nofollow">
+  <img width="25px" src="https://camo.githubusercontent.com/add9143ed4f594d9ffdd661716c958ec275a6638468e5a8314df2d4bfbf8e0c0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" data-  canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width: 100%;">
+  </a> 
 </p>
 
 
