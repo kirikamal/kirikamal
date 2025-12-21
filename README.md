@@ -1,41 +1,43 @@
-# <center>Hi, I'm Kiri Kamalanathan 👋</center>
+# <p style="text-align:center">Hi, I'm Kiri Kamalanathan 👋</p>
 
-### <center>Full‑Stack Software Engineer - Cloud - AI</center>
+### <p style="text-align:center">Full‑Stack Software Engineer - Cloud - AI</p>
 
-## Summary
+Building reliable, scalable web apps and intelligent systems from prototype to production.
+
+### Summary
 
 - Senior Software Engineer focused on cloud-native systems, geospatial data pipelines, and production-ready automation.
 - Building reliable, scalable web apps and intelligent systems from prototype to production.
 - I combine systems thinking with pragmatic engineering to deliver reliable platforms and intuitive UX.
 
 
-## Background
+### Background
 
 - 🎓 Bachelor of Science (Hons) in Information Systems, Manchester Metropolitan University, UK
 - 📄 Open to Roles in ***AI/ML***, ***Full-stack Softwae Engineer*** or ***Backend Developer***
 - 🌐 Portfolio - 
 
 
-## Featured Projects
+### Featured Projects
 
-### AI, Machine Learning Projects
+#### AI, Machine Learning Projects
 
 - **Resume Screenor** - Python-based resume intelligence system powered by three LLM-driven agents for job description parsing, resume information extraction, and candidate ranking.
 - **MediParse** - Automated system designed to extract prescription and patient details from medical forms using Computer Vision techniques.
 
-### Web & Softwae Engineering
+#### Web & Softwae Engineering
 
 - **Bizmerger** - Full-featured monolithic Ruby on Rails platform supporting property search, agent management, listings, communications and transactions. Delivered real-time analytics dashboards, integrated AWS S3 for reliable
 media storage and built a responsive, user-friendly UI with Bootstrap.
 
 
-## Skills
+### Skills
 
-### Backend Development
+#### Backend Development
 
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>&nbsp;Python
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby_on_rails.png" alt="Ruby on Rails" title="Ruby on Rails"/></code>&nbsp;Ruby on Rails
-<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>&nbsp;node.js
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>&nbsp;Python&nbsp;&nbsp;
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby_on_rails.png" alt="Ruby on Rails" title="Ruby on Rails"/></code>&nbsp;Ruby on Rails&nbsp;&nbsp;
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>&nbsp;node.js&nbsp;&nbsp;
 <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code>&nbsp;FastAPI
 
 <!--
