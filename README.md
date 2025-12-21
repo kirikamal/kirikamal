@@ -5,21 +5,21 @@
 Building reliable, scalable web apps and intelligent systems from prototype to production.
 
 
-## Summary
+## 🔍 Summary
 
 - Senior Software Engineer focused on cloud-native systems, geospatial data pipelines, and production-ready automation.
 - Building reliable, scalable web apps and intelligent systems from prototype to production.
 - I combine systems thinking with pragmatic engineering to deliver reliable platforms and intuitive UX.
 
 
-## Background
+## 🚀 Background
 
 - 🎓 Bachelor of Science (Hons) in Information Systems, Manchester Metropolitan University, UK
-- 📄 Open to Roles in **AI/ML**, **Full-stack Softwae Engineer** or **Backend Developer**
+- 📄 Open to Roles in **AI/ML**, **Full-stack Software Engineer** or **Backend Developer**
 - 🌐 Portfolio - 
 
 
-## Featured Projects
+## 📌 Featured Projects
 
 ### AI, Machine Learning Projects
 
@@ -33,7 +33,7 @@ media storage and built a responsive, user-friendly UI with Bootstrap.
 - **expense-trackr** - Built with a Python FastAPI backend and a Streamlit frontend. Provides an intuitive interface for recording, categorizing, and analyzing expenses, with a RESTful API handling data management and business logic. Designed for simplicity, performance, and ease of use, enabling users to track spending patterns and gain actionable financial insights.
 
 
-## Skills
+## 🧰 Skills
 
 ### Backend Development
 
@@ -93,6 +93,11 @@ media storage and built a responsive, user-friendly UI with Bootstrap.
 RSpec&nbsp;&nbsp;
 <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>&nbsp;Jira
 
+
+## 🤝 Let’s Connect
+
+📧 Email: [kiri.kamalanathan@gmail.com](mailto:kiri.kamalanathan@gmail.com)
+💼 LinkedIn: [linkedin.com/in/kirikamal](https://www.linkedin.com/in/kirikamal/)
 
 <!--
 **kirikamal/kirikamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
