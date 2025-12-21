@@ -1,4 +1,4 @@
-# <p style="text-align:center">Hi, I'm Kiri Kamalanathan 👋</p>
+# <h1 style="text-align:center">Hi, I'm Kiri Kamalanathan 👋</h1>
 
 ### <p style="text-align:center">Full‑Stack Software Engineer - Cloud - AI</p>
 
