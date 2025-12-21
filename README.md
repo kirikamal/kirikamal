@@ -73,12 +73,12 @@ media storage and built a responsive, user-friendly UI with Bootstrap.
 
 <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>&nbsp;NumPy&nbsp;&nbsp;
 <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>&nbsp;Pandas&nbsp;&nbsp;
-&nbsp;Matplotlib&nbsp;&nbsp;
-&nbsp;Seaborn&nbsp;&nbsp;
-&nbsp;OpenCV&nbsp;&nbsp;
-&nbsp;Pytesseract&nbsp;&nbsp;
-&nbsp;GitHub Copilot&nbsp;&nbsp;
-&nbsp;Claude Code
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matplotlib.png"/></code>&nbsp;Matplotlib&nbsp;&nbsp;
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/seaborn.png"/></code>&nbsp;Seaborn&nbsp;&nbsp;
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/opencv.png"/></code>&nbsp;OpenCV&nbsp;&nbsp;
+<code><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tesseract/tesseract-original.svg"/></code>&nbsp;PyTesseract&nbsp;&nbsp;
+<code><img width="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg"/></code>&nbsp;GitHub Copilot&nbsp;&nbsp;
+<code><img width="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg"/></code>&nbsp;Claude Code&nbsp;&nbsp;
 
 ### Other Tools
 
