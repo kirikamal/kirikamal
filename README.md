@@ -73,12 +73,13 @@ media storage and built a responsive, user-friendly UI with Bootstrap.
 
 <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>&nbsp;NumPy&nbsp;&nbsp;
 <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>&nbsp;Pandas&nbsp;&nbsp;
-<code><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib"/></code>&nbsp;Matplotlib&nbsp;&nbsp;
-<code><img width="20" src="https://cdn.jsdelivr.net/gh/permafrost-dev/devicon/icons/chart-line/chart-line-plain.svg" alt="Seaborn" title="Seaborn"/></code>&nbsp;Seaborn&nbsp;&nbsp;
-<code><img width="20" src="https://cdn.jsdelivr.net/gh/antfu/simple-icons@master/icons/opencv.svg" alt="OpenCV" title="OpenCV"/></code>&nbsp;OpenCV&nbsp;&nbsp;
-<code><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tesseract/tesseract-original.svg" alt="PyTesseract" title="PyTesseract"/></code>&nbsp;PyTesseract&nbsp;&nbsp;
-<code><img width="20" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot"/></code>&nbsp;GitHub Copilot&nbsp;&nbsp;
-<code><img width="20" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" alt="Claude Code" title="Claude Code"/></code>&nbsp;Claude Code&nbsp;&nbsp;
+<code><img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/matplotlib.svg" alt="Matplotlib" title="Matplotlib"/></code>&nbsp;Matplotlib&nbsp;&nbsp;
+<code><img width="20" src="https://cdn.jsdelivr.net/gh/iconify/design@master/icons/logos/seaborn.svg" alt="Seaborn" title="Seaborn"/></code>&nbsp;Seaborn&nbsp;&nbsp;
+<code><img width="20" src="https://cdn.jsdelivr.net/gh/iconify/design@master/icons/logos/opencv.svg" alt="OpenCV" title="OpenCV"/></code>&nbsp;OpenCV&nbsp;&nbsp;
+<code><img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tesseract.svg" alt="PyTesseract" title="PyTesseract"/></code>&nbsp;PyTesseract&nbsp;&nbsp;
+<code><img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot"/></code>&nbsp;GitHub Copilot&nbsp;&nbsp;
+<code><img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/anthropic.svg" alt="Claude Code" title="Claude Code"/></code>&nbsp;Claude Code&nbsp;&nbsp;
+
 
 
 ### Other Tools
