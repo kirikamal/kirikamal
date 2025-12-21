@@ -5,7 +5,7 @@
 Building reliable, scalable web apps and intelligent systems from prototype to production.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Python+%7C+FastAPI+%7C+Rails;Building+clean+scalable+systems&center=true&width=500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kirikamal&show_icons=true&theme=dark" />
 </p>
 
 ## Summary
