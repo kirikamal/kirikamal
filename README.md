@@ -20,13 +20,23 @@
 
 ### AI, Machine Learning Projects
 
-- ***Resume Screenor*** - Python-based resume intelligence system powered by three LLM-driven agents for job description parsing, resume information extraction, and candidate ranking.
-- ***MediParse*** - Automated system designed to extract prescription and patient details from medical forms using Computer Vision techniques.
+- **Resume Screenor** - Python-based resume intelligence system powered by three LLM-driven agents for job description parsing, resume information extraction, and candidate ranking.
+- **MediParse** - Automated system designed to extract prescription and patient details from medical forms using Computer Vision techniques.
 
 ### Web & Softwae Engineering
 
-- ***Bizmerger*** - Full-featured monolithic Ruby on Rails platform supporting property search, agent management, listings, communications and transactions. Delivered real-time analytics dashboards, integrated AWS S3 for reliable
+- **Bizmerger** - Full-featured monolithic Ruby on Rails platform supporting property search, agent management, listings, communications and transactions. Delivered real-time analytics dashboards, integrated AWS S3 for reliable
 media storage and built a responsive, user-friendly UI with Bootstrap.
+
+
+## Skills
+
+### Backend Development
+
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby_on_rails.png" alt="Ruby on Rails" title="Ruby on Rails"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code>
 
 <!--
 **kirikamal/kirikamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
