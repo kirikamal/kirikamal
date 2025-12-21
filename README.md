@@ -4,9 +4,6 @@
 
 Building reliable, scalable web apps and intelligent systems from prototype to production.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirikamal&show_icons=true&theme=dark" />
-</p>
 
 ## Summary
 
