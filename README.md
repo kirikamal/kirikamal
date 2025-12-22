@@ -24,7 +24,7 @@ Building reliable, scalable web apps and intelligent systems from prototype to p
 ### AI, Machine Learning Projects
 
 - **Resume Screenor** - Python-based resume intelligence system powered by three LLM-driven agents for job description parsing, resume information extraction, and candidate ranking.
-- **MediParse** - Automated system designed to extract prescription and patient details from medical forms using Computer Vision techniques.
+- **MediParse** - Automated prescription and patient data extraction system using FastAPI, OpenCV, and Tesseract OCR, with structured output powered by regex-based parsing.
 
 ### Web & Softwae Engineering
 
