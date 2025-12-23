@@ -26,7 +26,7 @@ Building reliable, scalable web apps and intelligent systems from prototype to p
 - **Resume Screenor** - Python-based resume intelligence system powered by three LLM-driven agents for job description parsing, resume information extraction, and candidate ranking.
 - **MediParse** - Automated prescription and patient data extraction system using Python, FastAPI, OpenCV, and Tesseract OCR, with structured output powered by regex-based parsing.
 
-### Web & Softwae Engineering
+### Web & Software Engineering
 
 - **Bizmerger** - Full-featured monolithic Ruby on Rails platform supporting property search, agent management, listings, communications and transactions. Delivered real-time analytics dashboards, integrated AWS S3 for reliable
 media storage and built a responsive, user-friendly UI with Bootstrap.
