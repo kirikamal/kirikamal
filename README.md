@@ -23,6 +23,7 @@ Building reliable, scalable web apps and intelligent systems from prototype to p
 
 ### AI, Machine Learning Projects
 
+- **Local RAG Document Assistant** - A powerful, privacy-focused document question-answering system that runs entirely on your local machine developed in Python, FastAPI, LangChain, HuggingFace & LocalAI.
 - **Resume Screenor** - Python-based resume intelligence system powered by three LLM-driven agents for job description parsing, resume information extraction, and candidate ranking.
 - **MediParse** - Automated prescription and patient data extraction system using Python, FastAPI, OpenCV, and Tesseract OCR, with structured output powered by regex-based parsing.
 
